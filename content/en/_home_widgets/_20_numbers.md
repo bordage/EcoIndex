@@ -5,9 +5,9 @@ weight = 20
 
 {{% info_1_column %}}
 
-### Today, global worldwide digital footprint represents
+### Its contribution to the environmental footprint of humanity is massive
 
-Le numérique, ce n’est pas que du vent
+Some of the main sources of impact include :
 
 {{% /info_1_column %}}
 
@@ -29,4 +29,4 @@ Le numérique, ce n’est pas que du vent
         text="consommation <br/> d’électricité"
     >}} {{</grid>}}
 
-<small>Source: Empreinte environnementale du numérique mondial - greenit.fr</small>
+<small>Source: The environmental footprint of the digital world - greenit.fr</small>
