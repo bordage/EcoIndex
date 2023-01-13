@@ -4,8 +4,8 @@
 
 (English version below)
 
-[EcoIndex](http://www.ecoindex.fr/) est un outil du
-[Collectif Conception Numérique Responsable](https://collectif.greenit.fr/)
+[EcoIndex](http://www.ecoindex.fr/) est un outil conçu par Frédéric Bordage dans le cadre du 
+[Collectif Conception Numérique Responsable](https://collectif.greenit.fr/), un groupe de travail du [Collectif Green IT](https://www.greenit.fr/).
 
 ## Contribuer
 
