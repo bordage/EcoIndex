@@ -90,6 +90,8 @@ Déploiement automatique grace aux Github Actions (WIP)
 
 Le site internet www.ecoindex.fr, ainsi que les règles d'analyses et de calcul de l'ecoindex sont publiés [sous licence Creative Commons BY-NC-ND](LICENSE.md). Cela signifie que vous pouvez l'utiliser librement pour des utilisations non commerciales, à la condition de maintenir la paternité du contenu, via un lien vers http://www.ecoindex.fr 
 
+Les facteurs d'impacts environnementaux (quantités de gaz à effet de serre et d'eau) ne sont pas sous licence libre. Tous droits réservés. © Frédéric Bordage. Merci de demander l'autorisation à son auteur pour les utiliser : fbordage@greenit.fr
+
 
 ---
 
@@ -180,3 +182,5 @@ Automatic deploys thanks to Github Actions (WIP)
 ## License
 
 The website www.ecoindex.fr, as well as the ecoindex analysis and calculation rules are published [under Creative Commons BY-NC-ND license](LICENSE.md). This means that you can use it freely for non-commercial uses, on condition that you maintain the authorship of the content, via a link to http://www.ecoindex.fr
+
+The LCA values used by GreenIT to evaluate environmental impacts are not under free license - © Frédéric Bordage. Please also refer to the mentions provided in the code files for specifics on the IP regime.
